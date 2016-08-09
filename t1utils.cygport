@@ -1,0 +1,8 @@
+NAME="t1utils"
+VERSION=1.39
+RELEASE=1
+CATEGORY="Graphics"
+SUMMARY="Type 1 font manipulation utilties"
+DESCRIPTION="Six free command-line utilties for dealing with Type 1 fonts."
+HOMEPAGE="http://www.lcdf.org/~eddietwo/type/"
+SRC_URI="http://www.lcdf.org/~eddietwo/type/t1utils-${VERSION}.tar.gz"
